@@ -1,0 +1,1 @@
+var json_Bandara_5 = {"type":"FeatureCollection","name":"Bandara_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Nama Tempat":"Bandara H.Aroeppala","X":120.43975,"Y":-6.17815},"geometry":{"type":"Point","coordinates":[120.439753333333343,-6.178146666666667]}}]}
